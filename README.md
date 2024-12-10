@@ -1,4 +1,4 @@
-# Airlines-Management-System---DBMS-Project
+# Airlines-Management--DBMS-Project
 
 <p>
   <h3>Built Using:</h3>
